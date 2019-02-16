@@ -3,8 +3,10 @@
     "version": "1.0.0",
     "author": "Investira",
     "description": "Investira SDK",
+    "main": "./lib/tests/app.js",
     "scripts": {
-        "start": "nodemon ./src/app"
+        "start": "nodemon ./lib/tests",
+        "test": "nodemon --inspect-brk ./lib/tests/index"
     },
     "publishConfig": {
         "registry": "http://my-internal-registry.local"
@@ -46,6 +48,5 @@
         ],
         "delay": "0"
     },
-    "license": "SEE LICENSE IN license.txt",
-    "main": "index.js"
+    "license": "SEE LICENSE IN license.txt"
 }
