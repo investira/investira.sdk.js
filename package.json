@@ -12,6 +12,7 @@
     "dependencies": {
         "@mysql/xdevapi": "^8.0.15",
         "@types/node": "^11.9.4",
+        "axios": "^0.18.0",
         "bcrypt": "^3.0.4",
         "on-finished": "^2.3.0",
         "winston": "^3.2.1"
