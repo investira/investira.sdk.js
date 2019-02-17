@@ -5,7 +5,8 @@ exports.sqls = require("./lib/utils/tokens");
 exports.tokens = require("./lib/utils/tokens");
 exports.validators = require("./lib/utils/validators");
 exports.numbers = require("./lib/utils/numbers");
-exports.numbers = require("./lib/utils/numbers");
+exports.invests = require("./lib/utils/invests");
+exports.httpRequests = require("./lib/utils/httpRequests");
 
 exports.crud = require("./lib/hofs/crud");
 exports.dao = require("./lib/hofs/dao");
