@@ -3,7 +3,32 @@
     "version": "1.0.0",
     "author": "Investira",
     "description": "Investira SDK",
-    "main": "./lib/tests/app.js",
+    "main": "index.js",
+    "files": [
+        "LICENSE",
+        "README.md",
+        "build-info.json",
+        "index.js",
+        "lib/"
+    ],
+    "type": "version",
+    "registry": true,
+    "raw": "investira.sdk@1.0.0",
+    "escapedName": "investira.sdk",
+    "rawSpec": "1.0.0",
+    "saveSpec": null,
+    "fetchSpec": "1.0.0",
+    "homepage": "https://investira.com.br/",
+    "keywords": [
+        "investira.sdk"
+    ],
+    "_requiredBy": [
+        "/"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/investira/investira.sdk.git"
+    },
     "scripts": {
         "start": "nodemon ./lib/tests",
         "test": "nodemon --inspect-brk ./lib/tests/index"
@@ -12,14 +37,8 @@
         "registry": "http://my-internal-registry.local"
     },
     "dependencies": {
-        "@mysql/xdevapi": "^8.0.15",
-        "@types/node": "^11.9.4",
-        "axios": "^0.18.0",
-        "bcrypt": "^3.0.4",
-        "on-finished": "^2.3.0",
-        "winston": "^3.2.1"
+        "axios": "^0.18.0"
     },
-    "devDependencies": {},
     "jshintConfig": {
         "curly": true,
         "eqeqeq": true,
@@ -48,5 +67,5 @@
         ],
         "delay": "0"
     },
-    "license": "SEE LICENSE IN license.txt"
+    "license": "GNU GENERAL PUBLIC LICENSE 3.0"
 }
