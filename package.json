@@ -37,7 +37,8 @@
         "registry": "http://my-internal-registry.local"
     },
     "dependencies": {
-        "axios": "^0.18.0"
+        "axios": "^0.18.0",
+        "tape": "^4.10.1"
     },
     "jshintConfig": {
         "curly": true,
