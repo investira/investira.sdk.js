@@ -11,6 +11,4 @@ module.exports.dataModel = require('./lib/hofs/dataModel');
 // module.exports.responseModel = require('./lib/hofs/responseModel');
 
 module.exports.responseModel = require('./lib/models/responseModel');
-module.exports.messageModel = require('./lib/models/messageModel');
-
-module.exports.HttpErrors = require('./lib/errors/HttpErrors');
+// module.exports.messageModel = require('./lib/models/messageModel');
