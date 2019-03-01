@@ -34,9 +34,6 @@
         "test": "nodemon --inspect-brk ./lib/tests/test_model",
         "test_format": "nodemon --inspect-brk ./lib/tests/test_formats"
     },
-    "publishConfig": {
-        "registry": "http://my-internal-registry.local"
-    },
     "dependencies": {
         "axios": "^0.18.0"
     },
@@ -71,5 +68,11 @@
         ],
         "delay": "0"
     },
-    "license": "GPL-3.0-only"
+    "license": "GPL-3.0-only",
+    "bugs": {
+        "url": "https://github.com/investira/investira.sdk/issues"
+    },
+    "directories": {
+        "lib": "lib"
+    }
 }

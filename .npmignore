@@ -1,0 +1,6 @@
+./tests
+./logs
+.prettierrc
+.vscode
+.gitignore
+jsconfig.json
