@@ -8,4 +8,6 @@ module.exports.strings = require('./lib/utils/strings');
 module.exports.responses = require('./lib/utils/responses');
 module.exports.validators = require('./lib/utils/validators');
 
+module.exports.messages = require('./lib/messages');
+
 module.exports.dataModel = require('./lib/hofs/dataModel');
