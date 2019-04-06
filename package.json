@@ -32,7 +32,8 @@
     "scripts": {
         "start": "nodemon ./lib/tests",
         "test": "nodemon --inspect-brk ./lib/tests/test_model",
-        "test_format": "nodemon --inspect-brk ./lib/tests/test_formats"
+        "test_formats": "nodemon --inspect-brk ./lib/tests/test_formats",
+        "test_strings": "nodemon --inspect-brk ./lib/tests/test_strings"
     },
     "dependencies": {
         "axios": "^0.18.0"
