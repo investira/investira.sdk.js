@@ -25,3 +25,6 @@ node_modules/
 # App data
 /data/
 
+# testes
+lib/tests/
+
