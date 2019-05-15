@@ -4,13 +4,6 @@
     "author": "Investira",
     "description": "Investira SDK",
     "main": "index.js",
-    "files": [
-        "LICENSE",
-        "README.md",
-        "build-info.json",
-        "index.js",
-        "lib/"
-    ],
     "type": "version",
     "registry": true,
     "raw": "investira.sdk@1.0.3",
