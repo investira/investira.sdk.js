@@ -22,6 +22,9 @@
         "type": "git",
         "url": "https://github.com/investira/investira.sdk.js.git"
     },
+    "bugs": {
+        "url": "https://github.com/investira/investira.sdk/issues"
+    },
     "scripts": {
         "start": "nodemon ./lib/tests",
         "test": "nodemon --inspect-brk ./lib/tests/index",
@@ -33,7 +36,8 @@
     },
     "dependencies": {
         "axios": "0.18.0",
-        "moment": "2.24.0"
+        "moment": "2.24.0",
+        "moment-timezone": "0.5.25"
     },
     "devDependencies": {
         "tape": "^4.10.1"
@@ -71,9 +75,6 @@
         "delay": "0"
     },
     "license": "GPL-3.0-only",
-    "bugs": {
-        "url": "https://github.com/investira/investira.sdk/issues"
-    },
     "directories": {
         "lib": "lib"
     }
