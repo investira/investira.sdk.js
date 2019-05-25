@@ -24,7 +24,7 @@
     },
     "scripts": {
         "start": "nodemon ./lib/tests",
-        "test": "nodemon --inspect-brk ./lib/tests/test_model",
+        "test": "nodemon --inspect-brk ./lib/tests/index",
         "test_formats": "nodemon --inspect-brk ./lib/tests/test_formats",
         "test_strings": "nodemon --inspect-brk ./lib/tests/test_strings",
         "test_invests": "nodemon --inspect-brk ./lib/tests/test_invests",
