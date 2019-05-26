@@ -27,17 +27,13 @@
     },
     "scripts": {
         "start": "nodemon ./lib/tests",
-        "test": "nodemon --inspect-brk ./lib/tests/index",
-        "test_formats": "nodemon --inspect-brk ./lib/tests/test_formats",
-        "test_strings": "nodemon --inspect-brk ./lib/tests/test_strings",
-        "test_invests": "nodemon --inspect-brk ./lib/tests/test_invests",
-        "test_dates": "nodemon --inspect-brk ./lib/tests/test_dates",
-        "test_numbers": "nodemon --inspect-brk ./lib/tests/test_numbers"
+        "test": "nodemon --inspect-brk ./lib/tests/index"
     },
     "dependencies": {
         "axios": "0.18.0",
         "moment": "2.24.0",
-        "moment-timezone": "0.5.25"
+        "moment-timezone": "0.5.25",
+        "investira.data": "file:../investira.data"
     },
     "devDependencies": {
         "tape": "^4.10.1"
