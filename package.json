@@ -26,14 +26,14 @@
         "url": "https://github.com/investira/investira.sdk/issues"
     },
     "scripts": {
-        "start": "nodemon ./lib/tests",
-        "test": "nodemon --inspect-brk ./lib/tests/index"
+        "start": "node ./lib/tests",
+        "test": "nodemon --inspect-brk ./lib/_tests/test_dates"
     },
     "dependencies": {
         "axios": "0.18.0",
+        "investira.data": "file:../investira.data",
         "moment": "2.24.0",
-        "moment-timezone": "0.5.25",
-        "investira.data": "file:../investira.data"
+        "moment-timezone": "0.5.25"
     },
     "devDependencies": {
         "tape": "^4.10.1"
