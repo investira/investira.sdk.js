@@ -11,3 +11,5 @@ module.exports.validators = require('./lib/utils/validators');
 module.exports.messages = require('./lib/messages');
 
 module.exports.dataModel = require('./lib/hofs/dataModel');
+
+require('./lib/plugins');
