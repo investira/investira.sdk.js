@@ -27,7 +27,7 @@
     },
     "scripts": {
         "start": "node ./lib/tests",
-        "test": "nodemon --inspect-brk ./lib/_tests/test_dates"
+        "test": "nodemon --inspect-brk ./lib/_tests/tests"
     },
     "dependencies": {
         "axios": "0.18.0",
