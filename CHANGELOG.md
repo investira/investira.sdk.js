@@ -8,3 +8,6 @@
 -   arrays: Novo módulo com seek para buscar o valor mais próximo, por busca binária.
 
 # 1.0.6
+
+-   dates e formats: Utilização da lib moment-with-locales;
+-   numbers: lerp - Interpolação linear
