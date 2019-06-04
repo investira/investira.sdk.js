@@ -11,3 +11,4 @@
 
 -   [dates] e [formats] Utilização da lib moment-with-locales;
 -   [numbers] lerp - Interpolação linear
+-   [dates] Alteração de daysBetweenProrata para workingDaysBetween
