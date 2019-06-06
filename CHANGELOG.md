@@ -14,3 +14,5 @@
 -   [formats] Correção do formatDate
 -   [dates] Novas funções: workingDaysInMonth, workingDaysInYear, daysInMonth e daysInYear
 -   [numbers] lerp - Interpolação linear
+
+# 1.0.7
