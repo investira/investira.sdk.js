@@ -10,5 +10,7 @@
 # 1.0.6
 
 -   [dates] e [formats] Utilização da lib moment-with-locales;
--   [numbers] lerp - Interpolação linear
 -   [dates] Alteração de daysBetweenProrata para workingDaysBetween
+-   [formats] Correção do formatDate
+-   [dates] Novas funções: workingDaysInMonth, workingDaysInYear, daysInMonth e daysInYear
+-   [numbers] lerp - Interpolação linear
