@@ -16,3 +16,5 @@
 -   [numbers] lerp - Interpolação linear
 
 # 1.0.7
+
+-   [dates] Nova função: monthAniversary
