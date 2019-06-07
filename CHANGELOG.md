@@ -17,4 +17,5 @@
 
 # 1.0.7
 
--   [dates] Nova função: monthAniversary
+-   [dates] Nova função: nextMonthAniversary
+-   [numbers] Nova função: pow
