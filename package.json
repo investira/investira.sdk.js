@@ -30,7 +30,7 @@
         "test": "nodemon --inspect-brk ./lib/_tests/tests"
     },
     "dependencies": {
-        "axios": "0.18.0",
+        "axios": "0.18.1",
         "investira.data": "^1.0.0",
         "moment": "2.24.0"
     },
