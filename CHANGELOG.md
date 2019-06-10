@@ -20,3 +20,5 @@
 -   [dates] Nova função: nextMonthAniversary
 -   [numbers] Nova função: pow
 -   [axios] Atualização de versão 0.18.1
+
+# 1.0.8
