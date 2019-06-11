@@ -23,5 +23,6 @@
 
 # 1.0.8
 
--   [numbers] novas funções: sumValues e weightedMean(média ponderada)
+-   [numbers] Novas funções: sumValues e weightedMean(média ponderada)
 -   [objects] Nova função: objectToQuerystring
+-   [httpRequests] e [validators] Move hasConection para httpRequest
