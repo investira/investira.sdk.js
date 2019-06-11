@@ -24,3 +24,4 @@
 # 1.0.8
 
 -   [numbers] novas funções: sumValues e weightedMean(média ponderada)
+-   [objects] Nova função: objectToQuerystring
