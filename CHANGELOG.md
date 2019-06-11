@@ -22,3 +22,5 @@
 -   [axios] Atualização de versão 0.18.1
 
 # 1.0.8
+
+-   [numbers] novas funções: sumValues e weightedMean(média ponderada)
