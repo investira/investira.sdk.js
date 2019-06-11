@@ -26,3 +26,4 @@
 -   [numbers] Novas funções: sumValues e weightedMean(média ponderada)
 -   [objects] Nova função: objectToQuerystring
 -   [httpRequests] e [validators] Move hasConection para httpRequest
+-   [numbers] bug: Correção da verificação se número foi informado em pvCalc
