@@ -28,3 +28,5 @@
 -   [httpRequests] e [validators] Move hasConection para httpRequest
 -   [numbers] bug: Correção da verificação se número foi informado em pvCalc
 -   [responses] Nova função: getSeries
+
+# 1.0.9
