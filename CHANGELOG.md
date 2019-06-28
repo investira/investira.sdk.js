@@ -36,3 +36,4 @@
 # 1.0.10
 
 -   [formats] e [dates] Retirada de referência cruzada
+-   [formats] friendlyBetweenDates refactor dos cálculos e inclusão da "x anos e y dias"
