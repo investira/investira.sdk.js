@@ -39,3 +39,6 @@
 -   [formats] friendlyBetweenDates refactor dos cálculos e inclusão da "x anos e y dias"
 
 # 1.0.11
+
+-   [formats] Nova função: getRelativeTime
+-   [formats] slugPeriod: adiciona suporte a internacionalização
