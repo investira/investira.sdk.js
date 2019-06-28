@@ -34,3 +34,5 @@
 -   [formats] Nova função: friendlyBetweenDates
 
 # 1.0.10
+
+-   [formats] e [dates] Retirada de referência cruzada
