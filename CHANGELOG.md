@@ -32,3 +32,5 @@
 # 1.0.9
 
 -   [formats] Nova função: friendlyBetweenDates
+
+# 1.0.10
