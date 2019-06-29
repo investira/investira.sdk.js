@@ -4,7 +4,6 @@
 
 ## Installation
 
-Before installing, make sure to authenticate with GitHub Package Registry or using a `.npmrc` file. See "[Configuring npm for use with GitHub Package Registry](https://help.github.com/en/articles/configuring-npm-for-use-with-github-package-registry#authenticating-to-github-package-registry)."
 
 `$ npm install investira.sdk`
 
@@ -19,6 +18,17 @@ Or add this package to your `package.json` file:
 ## Usage
 
 ```
-const myPackage = require('investira.sdk');
-myPackage.helloWorld();
+const dates = require('investira.sdk').arrays;
+const dates = require('investira.sdk').dates;
+const dates = require('investira.sdk').formats;
+const dates = require('investira.sdk').httpRequests;
+const dates = require('investira.sdk').invests;
+const dates = require('investira.sdk').numbers;
+const dates = require('investira.sdk').objects;
+const dates = require('investira.sdk').strings;
+const dates = require('investira.sdk').responses;
+const dates = require('investira.sdk').validators;
+const dates = require('investira.sdk').messages;
+const dates = require('investira.sdk').dataModel;
+
 ```
