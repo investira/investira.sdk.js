@@ -42,3 +42,5 @@
 
 -   [formats] Nova função: getRelativeTime
 -   [formats] slugPeriod: adiciona suporte a internacionalização
+
+# 1.0.12

@@ -1,16 +1,16 @@
 {
     "name": "investira.sdk",
-    "version": "1.0.11",
+    "version": "1.0.12",
     "author": "Investira",
     "description": "Investira SDK",
     "main": "index.js",
     "type": "version",
     "registry": true,
-    "raw": "investira.sdk@1.0.11",
+    "raw": "investira.sdk@1.0.12",
     "escapedName": "investira.sdk",
-    "rawSpec": "1.0.11",
+    "rawSpec": "1.0.12",
     "saveSpec": null,
-    "fetchSpec": "1.0.11",
+    "fetchSpec": "1.0.12",
     "homepage": "https://investira.com.br/",
     "keywords": [
         "investira.sdk"
