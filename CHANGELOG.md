@@ -44,3 +44,7 @@
 -   [formats] slugPeriod: adiciona suporte a internacionalização
 
 # 1.0.12
+
+-   [spellChecker] Novo módulo de correção ortográfica
+-   [httpRequests] Nova função para retornar o cancelToken, permitindo o cancel do request
+-   [dates] Função to date com parametro opcional informando qual a formatação da data informada
