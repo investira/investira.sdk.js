@@ -50,3 +50,4 @@
 -   [dates] Função to date com parametro opcional informando qual a formatação da data informada
 -   [objects] objectCleanup renomeado para objectCompliance
 -   [objects] Nova função deleteEmpty para excluir itens vázios de um objeto
+-   [formats] formatId renomeado para formatLeadingZeros
