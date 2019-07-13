@@ -51,3 +51,5 @@
 -   [objects] objectCleanup renomeado para objectCompliance
 -   [objects] Nova função deleteEmpty para excluir itens vázios de um objeto
 -   [formats] formatId renomeado para formatLeadingZeros
+
+# 1.0.13
