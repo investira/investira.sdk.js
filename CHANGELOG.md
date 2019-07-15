@@ -53,3 +53,5 @@
 -   [formats] formatId renomeado para formatLeadingZeros
 
 # 1.0.13
+
+-   [object] função deleteEmpty recursiva
