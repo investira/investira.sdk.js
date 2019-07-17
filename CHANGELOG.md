@@ -52,6 +52,8 @@
 -   [objects] Nova função deleteEmpty para excluir itens vázios de um objeto
 -   [formats] formatId renomeado para formatLeadingZeros
 
-# 1.0.13
+# 1.1.0
 
--   [object] função deleteEmpty recursiva
+-   [object] Função deleteEmpty recursiva
+-   [object] Função objectCompliance renomeada para objectComplianceWithArray
+-   [object] Nova função objectCompliance
