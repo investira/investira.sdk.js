@@ -57,3 +57,4 @@
 -   [object] Função deleteEmpty recursiva
 -   [object] Função objectCompliance renomeada para objectComplianceWithArray
 -   [object] Nova função objectCompliance
+-   [array] Novam função arrayComplianceWithArray
