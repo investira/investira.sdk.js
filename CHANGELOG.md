@@ -24,7 +24,7 @@
 # 1.0.8
 
 -   [numbers] Novas funções: sumValues e weightedMean(média ponderada)
--   [objects] Nova função: objectToQuerystring
+-   [objects] Nova função: objectToQueryString
 -   [httpRequests] e [validators] Move hasConection para httpRequest
 -   [numbers] bug: Correção da verificação se número foi informado em pvCalc
 -   [responses] Nova função: getSeries
@@ -42,3 +42,19 @@
 
 -   [formats] Nova função: getRelativeTime
 -   [formats] slugPeriod: adiciona suporte a internacionalização
+
+# 1.0.12
+
+-   [spellChecker] Novo módulo de correção ortográfica
+-   [httpRequests] Nova função para retornar o cancelToken, permitindo o cancel do request
+-   [dates] Função to date com parametro opcional informando qual a formatação da data informada
+-   [objects] objectCleanup renomeado para objectCompliance
+-   [objects] Nova função deleteEmpty para excluir itens vázios de um objeto
+-   [formats] formatId renomeado para formatLeadingZeros
+
+# 1.1.0
+
+-   [object] Função deleteEmpty recursiva
+-   [object] Função objectCompliance renomeada para objectComplianceWithArray
+-   [object] Nova função objectCompliance
+-   [array] Novam função arrayComplianceWithArray

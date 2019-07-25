@@ -8,6 +8,7 @@ module.exports.objects = require('./lib/utils/objects');
 module.exports.strings = require('./lib/utils/strings');
 module.exports.responses = require('./lib/utils/responses');
 module.exports.validators = require('./lib/utils/validators');
+module.exports.spellChecker = require('./lib/utils/spellChecker');
 
 module.exports.messages = require('./lib/messages');
 

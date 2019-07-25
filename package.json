@@ -1,42 +1,43 @@
 {
     "name": "investira.sdk",
-    "version": "1.0.11",
+    "version": "1.1.1",
     "author": "Investira",
     "description": "Investira SDK",
     "main": "index.js",
     "type": "version",
     "registry": true,
-    "raw": "investira.sdk@1.0.11",
+    "raw": "investira.sdk@1.1.1",
     "escapedName": "investira.sdk",
-    "rawSpec": "1.0.11",
+    "rawSpec": "1.1.1",
     "saveSpec": null,
-    "fetchSpec": "1.0.11",
+    "fetchSpec": "1.1.1",
     "homepage": "https://investira.com.br/",
     "keywords": [
-        "investira.sdk"
+        "investira.sdk",
+        "investira"
     ],
     "_requiredBy": [
         "/"
     ],
     "repository": {
-        "type": "git",
-        "url": "https://github.com/investira/investira.sdk.js.git"
+        "url": "git://github.com/investira/investira.sdk.js.git"
     },
     "bugs": {
         "url": "https://github.com/investira/investira.sdk/issues"
     },
     "scripts": {
         "start": "node ./lib/tests",
-        "test": "nodemon --inspect-brk ./_tests/tests"
+        "_test": "nodemon --inspect-brk ./_tests/test"
     },
     "dependencies": {
         "axios": "0.18.1",
-        "investira.data": "^1.0.0",
+        "investira.data": "^1.0.2",
         "moment": "2.24.0"
     },
     "devDependencies": {
         "tape": "^4.10.1"
     },
+    "peerDependencies": {},
     "jshintConfig": {
         "curly": true,
         "eqeqeq": false,
@@ -68,6 +69,15 @@
             "node_modules/**/node_modules"
         ],
         "delay": "0"
+    },
+    "prettier": {
+        "singleQuote": true,
+        "jsxBracketSameLine": true,
+        "bracketSpacing": true,
+        "trailingComma": "none",
+        "tabWidth": 4,
+        "arrowParens": "avoid",
+        "printWidth": 120
     },
     "license": "GPL-3.0-only",
     "directories": {
