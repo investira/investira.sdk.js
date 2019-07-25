@@ -62,3 +62,7 @@
 # 1.1.1
 
 -   [array] arrayComplianceWithArray com teste de null
+
+# 1.1.2
+
+-   [validators] Nova função: isEqual
