@@ -66,3 +66,4 @@
 # 1.1.2
 
 -   [validators] Nova função: isEqual
+-   [dates] Retirada do teste isEmpty no toDate
