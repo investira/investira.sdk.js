@@ -58,3 +58,7 @@
 -   [object] Função objectCompliance renomeada para objectComplianceWithArray
 -   [object] Nova função objectCompliance
 -   [array] Novam função arrayComplianceWithArray
+
+# 1.1.1
+
+-   [array] arrayComplianceWithArray com teste de null
