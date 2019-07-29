@@ -1,3 +1,5 @@
+module.exports.tasks = require('./lib/hofs/tasks');
+
 module.exports.arrays = require('./lib/utils/arrays');
 module.exports.dates = require('./lib/utils/dates');
 module.exports.formats = require('./lib/utils/formats');

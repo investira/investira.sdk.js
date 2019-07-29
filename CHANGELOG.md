@@ -71,4 +71,5 @@
 # 1.1.3
 
 -   [dates] Nova função schedule para agendamento de execução de função
--   [dates] Retorna null quando date e formate forem informados e date ou format for vázio
+-   [dates] Retorna null quando date e format forem informados e date ou format for vázio
+-   [tasks] Nova função para controlar tarefas
