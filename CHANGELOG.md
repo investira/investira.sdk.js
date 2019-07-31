@@ -72,4 +72,5 @@
 
 -   [dates] Nova função schedule para agendamento de execução de função
 -   [dates] Retorna null quando date e format forem informados e date ou format for vázio
--   [tasks] Nova função para controlar tarefas
+-   [tasks] Nov módulo para controlar tarefas
+-   [string] Nova função 'removeEnclosure' para remover invólucro da string
