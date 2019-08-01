@@ -75,3 +75,5 @@
 -   [tasks] Nov módulo para controlar tarefas
 -   [string] Nova função 'removeEnclosure' para remover invólucro da string
 -   [DataError] Inclusão mensagem 'Deadlock'
+-   [numbers] Nova função 'onlyNumbers' para retornar somente os números de uma string
+-   [format] Nova função 'formatPhone' para formatar telefones
