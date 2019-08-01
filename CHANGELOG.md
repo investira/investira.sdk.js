@@ -74,3 +74,4 @@
 -   [dates] Retorna null quando date e format forem informados e date ou format for vázio
 -   [tasks] Nov módulo para controlar tarefas
 -   [string] Nova função 'removeEnclosure' para remover invólucro da string
+-   [DataError] Inclusão mensagem 'Deadlock'
