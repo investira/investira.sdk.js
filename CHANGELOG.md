@@ -77,3 +77,4 @@
 -   [DataError] Inclusão mensagem 'Deadlock'
 -   [numbers] Nova função 'onlyNumbers' para retornar somente os números de uma string
 -   [format] Nova função 'formatPhone' para formatar telefones
+-   [format] Nova função 'fromNow' e 'toNow' para formatar intervalos de data de forma humanizada
