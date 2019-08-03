@@ -78,3 +78,9 @@
 -   [numbers] Nova função 'onlyNumbers' para retornar somente os números de uma string
 -   [format] Nova função 'formatPhone' para formatar telefones
 -   [format] Nova função 'fromNow' e 'toNow' para formatar intervalos de data de forma humanizada
+-   [dates] Nova função 'addWorkingDays' para retornar data acrescida de dias úteis
+-   [dates] Nova função 'isWorkingDay' para retornar se é dia útil
+-   [dates] Correção de cálculo de dias úteis para datas retroativas
+-   [validatros] isFunction também testa asyncfunction
+-   [httpRequest] fix: alguns 'request' com erros retornavam como resolve
+-   [httpRequest] 'hasconnection' utilizando 'HEAD' para ganho de performance
