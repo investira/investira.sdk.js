@@ -72,7 +72,7 @@
 
 -   [dates] Nova função schedule para agendamento de execução de função
 -   [dates] Retorna null quando date e format forem informados e date ou format for vázio
--   [tasks] Nov módulo para controlar tarefas
+-   [tasks] Novo módulo para controlar tarefas
 -   [string] Nova função 'removeEnclosure' para remover invólucro da string
 -   [DataError] Inclusão mensagem 'Deadlock'
 -   [numbers] Nova função 'onlyNumbers' para retornar somente os números de uma string
@@ -84,3 +84,4 @@
 -   [validatros] isFunction também testa asyncfunction
 -   [httpRequest] fix: alguns 'request' com erros retornavam como resolve
 -   [httpRequest] 'hasconnection' utilizando 'HEAD' para ganho de performance
+-   [dates] Correção de cálculo de diferença de datas em horário de versão
