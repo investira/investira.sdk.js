@@ -85,3 +85,4 @@
 -   [httpRequest] fix: alguns 'request' com erros retornavam como resolve
 -   [httpRequest] 'hasconnection' utilizando 'HEAD' para ganho de performance
 -   [dates] Correção de cálculo de diferença de datas em horário de versão
+-   [string] toTitleCase - Otimização: Constantes declaradas uma única vez
