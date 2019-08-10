@@ -72,17 +72,18 @@
 
 -   [dates] Nova função schedule para agendamento de execução de função
 -   [dates] Retorna null quando date e format forem informados e date ou format for vázio
--   [tasks] Novo módulo para controlar tarefas
--   [string] Nova função 'removeEnclosure' para remover invólucro da string
--   [DataError] Inclusão mensagem 'Deadlock'
--   [numbers] Nova função 'onlyNumbers' para retornar somente os números de uma string
--   [format] Nova função 'formatPhone' para formatar telefones
--   [format] Nova função 'fromNow' e 'toNow' para formatar intervalos de data de forma humanizada
 -   [dates] Nova função 'addWorkingDays' para retornar data acrescida de dias úteis
 -   [dates] Nova função 'isWorkingDay' para retornar se é dia útil
 -   [dates] Correção de cálculo de dias úteis para datas retroativas
--   [validatros] isFunction também testa asyncfunction
+-   [dates] Nova função 'toSqlDatetime'
+-   [dates] Correção de cálculo de diferença de datas em horário de versão
+-   [DataError] Inclusão mensagem 'Deadlock'
+-   [format] Nova função 'formatPhone' para formatar telefones
+-   [format] Nova função 'fromNow' e 'toNow' para formatar intervalos de data de forma humanizada
 -   [httpRequest] fix: alguns 'request' com erros retornavam como resolve
 -   [httpRequest] 'hasconnection' utilizando 'HEAD' para ganho de performance
--   [dates] Correção de cálculo de diferença de datas em horário de versão
+-   [numbers] Nova função 'onlyNumbers' para retornar somente os números de uma string
+-   [string] Nova função 'removeEnclosure' para remover invólucro da string
 -   [string] toTitleCase - Otimização: Constantes declaradas uma única vez
+-   [validatros] isFunction também testa asyncfunction
+-   [tasks] Novo módulo para controlar tarefas
