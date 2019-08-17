@@ -91,3 +91,5 @@
 # 1.2.0
 
 -   [package] Correção de dependência com investira.data
+
+# 1.2.1
