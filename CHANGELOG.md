@@ -87,3 +87,7 @@
 -   [string] toTitleCase - Otimização: Constantes declaradas uma única vez
 -   [validatros] isFunction também testa asyncfunction
 -   [tasks] Novo módulo para controlar tarefas
+
+# 1.2.0
+
+-   [package] Correção de dependência com investira.data
