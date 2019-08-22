@@ -95,3 +95,7 @@
 # 1.2.2
 
 -   [package] Correção de publicação
+
+# 1.2.3
+
+-   [package]
