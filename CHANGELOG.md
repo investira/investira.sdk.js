@@ -71,7 +71,7 @@
 # 1.1.3
 
 -   [dates] Nova função schedule para agendamento de execução de função
--   [dates] Retorna null quando date e format forem informados e date ou format for vázio
+-   [dates] Retorna null quando date e format forem informados e date ou format for vazio
 -   [dates] Nova função 'addWorkingDays' para retornar data acrescida de dias úteis
 -   [dates] Nova função 'isWorkingDay' para retornar se é dia útil
 -   [dates] Correção de cálculo de dias úteis para datas retroativas
@@ -91,3 +91,7 @@
 # 1.2.0
 
 -   [package] Correção de dependência com investira.data
+
+# 1.2.2
+
+-   [package] Correção de publicação
