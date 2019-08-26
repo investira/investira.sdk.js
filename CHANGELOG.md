@@ -98,4 +98,5 @@
 
 # 1.2.3
 
--   [package]
+-   [httpRequest] Add: suporte a cancelToken
+-   [messages]: Nova mensagem: RequestCanceled, mensagem de erro padrão para request cancelado
