@@ -99,4 +99,5 @@
 # 1.2.3
 
 -   [httpRequest] Add: suporte a cancelToken
--   [messages]: Nova mensagem: RequestCanceled, mensagem de erro padrão para request cancelado
+-   [messages] Nova mensagem: RequestCanceled, mensagem de erro padrão para request cancelado
+-   [objects] 'deleteEmpty' exclui somente objetos vázios
