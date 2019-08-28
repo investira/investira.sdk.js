@@ -104,3 +104,5 @@
 # 1.2.4
 
 -   [objects] 'deleteEmpty' exclui somente objetos vázios
+
+# 1.2.5
