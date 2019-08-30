@@ -106,3 +106,5 @@
 -   [objects] 'deleteEmpty' exclui somente objetos vázios
 
 # 1.2.5
+
+-   [DataErros] Nova mensagem ColumnRequired
