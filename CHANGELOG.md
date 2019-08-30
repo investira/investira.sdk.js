@@ -109,3 +109,5 @@
 
 -   [DataErros] Nova mensagem ColumnRequired
 -   [object] Novo função 'deleteNull'
+
+# 1.2.6
