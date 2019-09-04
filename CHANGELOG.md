@@ -111,3 +111,5 @@
 -   [object] Novo função 'deleteNull'
 
 # 1.2.6
+
+-   [httpRequest] Correção do nome da função hasConnection
