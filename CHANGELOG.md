@@ -115,3 +115,5 @@
 -   [httpRequest] Correção do nome da função hasConnection
 
 # 1.2.7
+
+-   [objects] 'deepMerge' com parametro optional
