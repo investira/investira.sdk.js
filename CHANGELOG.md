@@ -118,3 +118,5 @@
 
 -   [objects] 'deepMerge' com parametro optional
 -   [array] 'arrayComplianceWithArray' com nome podendo ser o primeiro item de um array
+
+# 1.2.8
