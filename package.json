@@ -31,7 +31,7 @@
     },
     "dependencies": {
         "axios": "0.18.1",
-        "investira.data": "^1.0.13",
+        "investira.data": "^1.0.15",
         "moment": "2.24.0"
     },
     "devDependencies": {
