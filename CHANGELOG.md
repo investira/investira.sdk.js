@@ -120,3 +120,5 @@
 -   [array] 'arrayComplianceWithArray' com nome podendo ser o primeiro item de um array
 
 # 1.2.8
+
+-   [numbers] Novo parametro 'toNumber' indicando se casa decimal é uma vírgula
