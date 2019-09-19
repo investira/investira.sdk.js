@@ -123,3 +123,4 @@
 
 -   [numbers] Novo parametro 'toNumber' indicando se casa decimal é uma vírgula
 -   [numbers] 'toNumber' retorna null quando valor string vazia
+-   [httpRequests] Possibilidade de configuração do timeout
