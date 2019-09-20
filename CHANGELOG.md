@@ -124,3 +124,5 @@
 -   [numbers] Novo parametro 'toNumber' indicando se casa decimal é uma vírgula
 -   [numbers] 'toNumber' retorna null quando valor string vazia
 -   [httpRequests] Possibilidade de configuração do timeout
+-   [tasks] Controle de inicio, fim e duração da execução
+-   [dates] Nova função 'toSqlTime' para retornar hora:minuto:segundo a partir de milisegundos ou de uma data
