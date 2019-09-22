@@ -131,3 +131,4 @@
 -   [dates] Nova função 'dateToObject' para retornar objeto com os valores data data em hora separados.
 -   [dates] Fix: função 'endOf' não estava utilizando UTC
 -   [tasks] Novo atributo 'schedules' para efetuar agendamentos da tarefa
+-   [tasks] Atributo 'schedules' com opção de execução em dias úteis
