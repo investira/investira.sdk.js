@@ -126,3 +126,8 @@
 -   [httpRequests] Possibilidade de configuração do timeout
 -   [tasks] Controle de inicio, fim e duração da execução
 -   [dates] Nova função 'toSqlTime' para retornar hora:minuto:segundo a partir de milisegundos ou de uma data
+-   [dates] Nova função 'isTime' para verificar se string é um hora - HH:MM válida.
+-   [dates] Nova função 'scheduleToDate' para retornar a próxima data a partir da data atual considerando os parametros informados
+-   [dates] Nova função 'dateToObject' para retornar objeto com os valores data data em hora separados.
+-   [dates] Fix: função 'endOf' não estava utilizando UTC
+-   [tasks] Novo atributo 'schedules' para efetuar agendamentos da tarefa
