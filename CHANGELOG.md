@@ -132,3 +132,4 @@
 -   [dates] Fix: função 'endOf' não estava utilizando UTC
 -   [tasks] Novo atributo 'schedules' para efetuar agendamentos da tarefa
 -   [tasks] Atributo 'schedules' com opção de execução em dias úteis
+-   [tasks] Dispara eventos 'run','running','stopped','enabled','disabled' e 'error'
