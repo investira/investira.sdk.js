@@ -132,6 +132,8 @@
 -   [dates] Fix: função 'endOf' não estava utilizando UTC
 -   [tasks] Novo atributo 'schedules' para efetuar agendamentos da tarefa
 -   [tasks] Atributo 'schedules' com opção de execução em dias úteis
--   [tasks] Dispara eventos 'run','running','stopped','enabled','disabled' e 'error'
+-   [tasks] Dispara eventos 'run','running','stopped','enabled','disabled','retry' e 'error'
 
 # 1.2.9
+
+-   [tasks] Atributo 'retries' dentro de state e no evento 'retry'
