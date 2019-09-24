@@ -138,4 +138,5 @@
 
 -   [tasks] Atributo 'retries' dentro de state e no evento 'retry'.
 -   [tasks] Evento 'error' passa a enviar informações do erro, state e options.
--   [tasks] Utilização de date ao invés de time no startedAt e endedAt
+-   [tasks] Utilização de date ao invés de time no startedAt e endedAt.
+-   [date] 'schedule' passa a receber função de callback para ser chamada após execução da função agendada.
