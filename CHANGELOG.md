@@ -142,3 +142,5 @@
 -   [date] 'schedule' passa a receber função de callback para ser chamada após execução da função agendada.
 
 # 1.2.10
+
+-   [tasks] fix: 'afterStop' passa a retornar uma Promise.
