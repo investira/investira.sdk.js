@@ -145,7 +145,9 @@
 
 -   [tasks] fix: 'afterStop' passa a retornar uma Promise.
 -   [dates] Novos métodos 'areDateTimesEqual' e 'areDatesEqual' para retornar se data são iquais.
--   [dates] 'scheduleToDate' para a poder receber data base que será utilizada para o cálculo da próxima data
+-   [dates] 'scheduleToDate' para a poder receber data base que será utilizada para o cálculo da próxima data.
 -   [dates] Novo método 'toTime' para retornar timestampo de uma hora em string.
 
 # 1.2.11
+
+-   [tasks] fix: 'getNextDate'.
