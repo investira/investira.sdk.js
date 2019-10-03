@@ -151,3 +151,6 @@
 # 1.2.11
 
 -   [tasks] fix: 'getNextDate'.
+-   [dates] 'schedule' permite intervalos superiores de 9.4 dias.
+-   [dates] fix: Retidado offset(0) de 'startOf' e 'endOf'.
+-   [dates] fix: 'toSQLDate' e 'toSQLDateTime' estava convertendo para UTC.
