@@ -156,3 +156,5 @@
 -   [dates] fix: 'toSQLDate' e 'toSQLDateTime' estava convertendo para UTC.
 
 # 1.2.12
+
+-   [numbers] fix: 'toNumber'. Exclui vírgulas antes de converter.
