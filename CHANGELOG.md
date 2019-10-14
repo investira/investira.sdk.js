@@ -158,3 +158,5 @@
 # 1.2.12
 
 -   [numbers] fix: 'toNumber'. Exclui vírgulas antes de converter.
+
+# 1.2.13
