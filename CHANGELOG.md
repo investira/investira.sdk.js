@@ -158,3 +158,4 @@
 # 1.2.12
 
 -   [numbers] fix: 'toNumber'. Exclui vírgulas antes de converter.
+-   [dates] fix: 'dateToObject' estava convertendo em UTC.
