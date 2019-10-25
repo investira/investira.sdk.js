@@ -159,3 +159,4 @@
 
 -   [numbers] fix: 'toNumber'. Exclui vírgulas antes de converter.
 -   [dates] fix: 'dateToObject' estava convertendo em UTC.
+-   [dates] fix: 'isWorkingDay' estava convertendo em UTC.
