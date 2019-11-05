@@ -152,7 +152,7 @@
 
 -   [tasks] fix: 'getNextDate'.
 -   [dates] 'schedule' permite intervalos superiores de 9.4 dias.
--   [dates] fix: Retidado offset(0) de 'startOf' e 'endOf'.
+-   [dates] fix: Retirado offset(0) de 'startOf' e 'endOf'.
 -   [dates] fix: 'toSQLDate' e 'toSQLDateTime' estava convertendo para UTC.
 
 # 1.2.12
@@ -160,3 +160,7 @@
 -   [numbers] fix: 'toNumber'. Exclui vírgulas antes de converter.
 -   [dates] fix: 'dateToObject' estava convertendo em UTC.
 -   [dates] fix: 'isWorkingDay' estava convertendo em UTC.
+
+# 1.2.13
+
+-   Somente evolução da versão
