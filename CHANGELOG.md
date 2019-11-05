@@ -164,3 +164,5 @@
 # 1.2.13
 
 -   Somente evolução da versão
+
+# 1.2.14
