@@ -166,3 +166,5 @@
 -   Somente evolução da versão
 
 # 1.2.14
+
+-   [objects] Nova função <code>getDiff</code> para retornar a diferença entre objetos.
