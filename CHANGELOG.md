@@ -168,3 +168,7 @@
 # 1.2.14
 
 -   [objects] Nova função <code>getDiff</code> para retornar a diferença entre objetos.
+
+# 1.2.15
+
+-   [objects] <code>getDiff</code> com opção de merge.
