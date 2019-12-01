@@ -172,3 +172,5 @@
 # 1.2.15
 
 -   [objects] <code>getDiff</code> com opção de merge.
+
+# 1.2.16
