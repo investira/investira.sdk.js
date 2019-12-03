@@ -174,3 +174,6 @@
 -   [objects] <code>getDiff</code> com opção de merge.
 
 # 1.2.16
+
+-   [objects] <code>deleteNull</code> passa a escluir também atributos sem filhos.
+-   [spellChecker] Fix: Convertia para titleCase as palavras que em Uppercase que estavam no dicionário.
