@@ -177,3 +177,4 @@
 
 -   [objects] <code>deleteNull</code> passa a escluir também atributos sem filhos.
 -   [spellChecker] Fix: Convertia para titleCase as palavras que em Uppercase que estavam no dicionário.
+-   [numbers] Nova função <code>toSqlNumber</code> para converter string contendo número retirando zeros a direita.
