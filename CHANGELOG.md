@@ -183,3 +183,5 @@
 
 -   [spellChecker] Fix: Inversão da ordem de chamada da verificação do endsWith
 -   [numbers] Fix <code>toSqlNumber</code>
+
+# 1.2.18
