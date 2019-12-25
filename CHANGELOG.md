@@ -185,3 +185,5 @@
 -   [numbers] Fix <code>toSqlNumber</code>
 
 # 1.2.18
+
+-   [investira.data] Alterado para peer dependency
