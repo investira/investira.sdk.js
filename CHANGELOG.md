@@ -189,3 +189,5 @@
 -   [investira.data] Alterado para peer dependency
 
 # 1.2.19
+
+-   [BasicMessages] Inclusão da descrição da mensagem
