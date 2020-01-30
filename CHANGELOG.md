@@ -191,3 +191,5 @@
 # 1.2.19
 
 -   [BasicMessages] Inclusão da descrição da mensagem
+
+# 1.2.20
