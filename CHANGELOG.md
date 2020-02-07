@@ -193,3 +193,5 @@
 -   [BasicMessages] Inclusão da descrição da mensagem
 
 # 1.2.20
+
+-   [validators] Nova função <code>isEmail</code>
