@@ -195,3 +195,7 @@
 # 1.2.20
 
 -   [validators] Nova função <code>isEmail</code>
+
+# 1.2.21
+
+-   [httpRequests] Inclusão do atributo <code>rejectUnauthorized</code>
