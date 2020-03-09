@@ -199,3 +199,4 @@
 # 1.2.21
 
 -   [httpRequests] Inclusão do atributo <code>rejectUnauthorized</code>
+-   [BasicMessage] Com atributos isBasicMessage, isBasicMessageSuccess e isBasicMessageError
