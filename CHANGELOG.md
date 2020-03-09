@@ -200,3 +200,5 @@
 
 -   [httpRequests] Inclusão do atributo <code>rejectUnauthorized</code>
 -   [BasicMessage] Com atributos isBasicMessage, isBasicMessageSuccess e isBasicMessageError
+
+# 1.2.22
