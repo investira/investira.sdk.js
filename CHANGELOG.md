@@ -202,3 +202,5 @@
 -   [BasicMessage] Com atributos isBasicMessage, isBasicMessageSuccess e isBasicMessageError
 
 # 1.2.22
+
+-   [arrayToObject] Inclusão de parametro com prefixo a ser adicionado a todas as chaves
