@@ -205,3 +205,4 @@
 
 -   [arrayToObject] Inclusão de parametro com prefixo a ser adicionado a todas as chaves
 -   [querystringToObject] Nova função <code>querystringToObject</code>
+-   Atualização de segurança
