@@ -208,3 +208,5 @@
 -   Atualização de segurança
 
 # 1.2.23
+
+-   [strings] Nova função <code>whitespacesCleaner</code>
