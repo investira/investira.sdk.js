@@ -211,3 +211,5 @@
 
 -   [strings] Nova função <code>whitespacesCleaner</code>
 -   [strings] Nova função <code>stringToQuery</code>
+
+# 1.2.24
