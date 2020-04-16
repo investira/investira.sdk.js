@@ -215,3 +215,5 @@
 # 1.2.24
 
 -   [strings] <code>stringToQuery</code>: Teste se valor recebido já um array
+
+# 1.2.25
