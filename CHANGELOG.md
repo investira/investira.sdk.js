@@ -213,3 +213,5 @@
 -   [strings] Nova função <code>stringToQuery</code>
 
 # 1.2.24
+
+-   [strings] <code>stringToQuery</code>: Teste se valor recebido já um array
