@@ -217,3 +217,5 @@
 -   [strings] <code>stringToQuery</code>: Teste se valor recebido já um array
 
 # 1.2.25
+
+-   [formats] Nova função <code>duration</code>
