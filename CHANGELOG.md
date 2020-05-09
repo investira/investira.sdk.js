@@ -220,3 +220,5 @@
 
 -   [formats] Nova função <code>duration</code>
 -   [tasks] Exclusão de console.log e schedule inicial chamado com settimeout
+
+# 1.2.26
