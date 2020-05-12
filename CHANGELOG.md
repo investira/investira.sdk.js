@@ -226,3 +226,5 @@
 
 Refactor de todas as mensagens padrão.
 O contrutor para a criação das mensagem foi alterado.
+
+# 2.0.1
