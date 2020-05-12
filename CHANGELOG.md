@@ -220,3 +220,4 @@
 
 -   [formats] Nova função <code>duration</code>
 -   [tasks] Exclusão de console.log e schedule inicial chamado com settimeout
+-   [validators] Otimização do isNull
