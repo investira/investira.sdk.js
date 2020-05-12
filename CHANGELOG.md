@@ -221,3 +221,8 @@
 -   [formats] Nova função <code>duration</code>
 -   [tasks] Exclusão de console.log e schedule inicial chamado com settimeout
 -   [validators] Otimização do isNull
+
+# 2.0.0
+
+Refactor de todas as mensagens padrão.
+O contrutor para a criação das mensagem foi alterado.
