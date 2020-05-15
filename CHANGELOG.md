@@ -230,3 +230,5 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.0.1
 
 -   [BasicMessages] Verificação de mensagem nula
+
+# 2.0.2
