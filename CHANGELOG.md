@@ -232,3 +232,6 @@ O contrutor para a criação das mensagem foi alterado.
 -   [BasicMessages] Verificação de mensagem nula
 
 # 2.0.2
+
+-   [tasks] State.error com valor original do erro
+-   [BasicMessages] JSON.stringfy caso mensagem seja um objeto
