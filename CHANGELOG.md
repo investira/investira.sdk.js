@@ -235,3 +235,8 @@ O contrutor para a criação das mensagem foi alterado.
 
 -   [tasks] State.error com valor original do erro
 -   [BasicMessages] JSON.stringfy caso mensagem seja um objeto
+
+# 2.0.3
+
+-   [tasks] Emite evento 'running' caso seja chamado o run() e a execução já esteja em andamento
+-   [tasks] Reseta erro somente antes da execução
