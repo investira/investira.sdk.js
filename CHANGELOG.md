@@ -242,3 +242,5 @@ O contrutor para a criação das mensagem foi alterado.
 -   [tasks] Reseta erro somente antes da execução
 
 # 2.0.4
+
+-   [stringToQuery] Retirada do trim
