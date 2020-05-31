@@ -245,6 +245,7 @@ O contrutor para a criação das mensagem foi alterado.
 
 -   [stringToQuery] Retirada do trim
 
-# 2.0.4
+# 2.0.6
 
 -   [tasks] Retry com chamada por setImmediate
+-   [strings] Novo método <code>stringfy</code>

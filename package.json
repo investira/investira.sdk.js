@@ -1,16 +1,16 @@
 {
     "name": "investira.sdk",
-    "version": "2.0.5",
+    "version": "2.0.6",
     "author": "Investira",
     "description": "Investira SDK",
     "main": "index.js",
     "type": "version",
     "registry": true,
-    "raw": "investira.sdk@2.0.5",
+    "raw": "investira.sdk@2.0.6",
     "escapedName": "investira.sdk",
-    "rawSpec": "2.0.5",
+    "rawSpec": "2.0.6",
     "saveSpec": null,
-    "fetchSpec": "2.0.5",
+    "fetchSpec": "2.0.6",
     "homepage": "https://investira.com.br/",
     "keywords": [
         "investira.sdk",
@@ -31,9 +31,10 @@
     },
     "dependencies": {
         "axios": "0.18.1",
-        "deep-diff": "^1.0.2",
-        "moment": "2.24.0",
-        "investira.data": "^1.1.9"
+        "deep-diff": "1.0.2",
+        "flatted": "3.0.2",
+        "investira.data": "^1.1.9",
+        "moment": "2.24.0"
     },
     "devDependencies": {
         "tape": "^4.13.2"
