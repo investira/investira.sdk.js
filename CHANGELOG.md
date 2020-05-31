@@ -249,3 +249,7 @@ O contrutor para a criação das mensagem foi alterado.
 
 -   [tasks] Retry com chamada por setImmediate
 -   [strings] Novo método <code>stringfy</code>
+
+# 2.0.7
+
+-   [httpRequests] Padronização da resposta de erro
