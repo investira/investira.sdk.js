@@ -253,3 +253,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.0.7
 
 -   [httpRequests] Padronização da resposta de erro
+
+# 2.0.8
+
+-   [httpRequests] Correção do código de erro para a mensagem <code>RequestCanceled</copde>
