@@ -256,4 +256,8 @@ O contrutor para a criação das mensagem foi alterado.
 
 # 2.0.8
 
--   [httpRequests] Correção do código de erro para a mensagem <code>RequestCanceled</copde>
+-   [clientError] Correção do código de erro para a mensagem <code>RequestCanceled</copde>
+
+# 2.0.9
+
+-   [serverErros] Correção do código de erro para a mensagem <code>NoResponse</copde>
