@@ -261,3 +261,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.0.9
 
 -   [serverErros] Correção do código de erro para a mensagem <code>NoResponse</copde>
+
+# 2.0.10
+
+-   [dates] <code>toDate</code>Vericação se data é conversível antes de chamar o moment para evitar erro no moment
