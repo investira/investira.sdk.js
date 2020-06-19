@@ -264,4 +264,12 @@ O contrutor para a criação das mensagem foi alterado.
 
 # 2.0.10
 
--   [dates] <code>toDate</code>Vericação se data é conversível antes de chamar o moment para evitar erro no moment
+-   [dates] <code>toDate</code>Verificação se data é conversível antes de chamar o moment para evitar erro no moment
+
+# 2.0.11
+
+-   [investira.data] Atualização
+
+# 2.0.12
+
+-   [investira.data] Atualização
