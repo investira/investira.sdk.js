@@ -273,3 +273,8 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.0.12
 
 -   [investira.data] Atualização
+
+# 2.0.13
+
+-   [dates] Correção do <code>addWorkingDays</code> para dias anteriores
+-   [matrix] Novo objeto
