@@ -278,3 +278,7 @@ O contrutor para a criação das mensagem foi alterado.
 
 -   [dates] Correção do <code>addWorkingDays</code> para dias anteriores
 -   [matrix] Novo objeto
+
+# 2.0.14
+
+-   [matrix] Substituição das funções <code>cols e rows</code> por <code>col e row</code>.
