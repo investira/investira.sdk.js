@@ -282,3 +282,4 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.0.14
 
 -   [matrix] Substituição das funções <code>cols e rows</code> por <code>col e row</code>.
+-   [number] Inclusão de função <code>percentil</code>.
