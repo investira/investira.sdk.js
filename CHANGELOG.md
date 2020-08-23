@@ -288,3 +288,7 @@ O contrutor para a criação das mensagem foi alterado.
 
 -   [numbers] Inclusão da função <code>avg</code> para cálculo de valor médio.
 -   [numbers] Inclusão da função <code>sum</code> como alternativa a sumValues.
+
+# 2.0.16
+
+-   [validators] Inclusão da função <code>isTrue</code>.
