@@ -296,3 +296,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.0.17
 
 -   [numbers] Inclusão da função <code>countDecimals</code>.
+
+# 2.0.18
+
+-   [arrays] Inclusão da função <code>toArray</code>.
