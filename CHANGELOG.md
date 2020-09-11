@@ -300,3 +300,8 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.0.18
 
 -   [arrays] Inclusão da função <code>toArray</code>.
+
+# 2.0.19
+
+-   [responses] Inclusão da função <code>serviceResultWithPagesTotalItems</code>.
+-   [responses] Inclusão da função <code>routeDataResponse</code>.
