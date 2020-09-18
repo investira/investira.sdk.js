@@ -313,3 +313,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.0.21
 
 -   [responses] Alteração do nome da função <code>serviceResultWithPagesTotalItems</code> para <code>serviceDataResponse</code>.
+
+# 2.0.22
+
+-   [responses] Alteração <code>serviceDataResponse</code> para receber promise(pending).
