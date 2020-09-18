@@ -1,0 +1,6 @@
+{
+    "debug.node.autoAttach": "on",
+    "debug.javascript.usePreview": false,
+    "debug.javascript.usePreviewAutoAttach": false,
+    "debug.javascript.autoAttachFilter": "onlyWithFlag"
+}
