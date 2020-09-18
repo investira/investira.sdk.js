@@ -309,3 +309,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.0.20
 
 -   [responses] Retorna objeto vázio quando data for null no <code>routeDataResponse</code>.
+
+# 2.0.21
+
+-   [responses] Alteração do nome da função <code>serviceResultWithPagesTotalItems</code> para <code>serviceDataResponse</code>.
