@@ -317,3 +317,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.0.22
 
 -   [responses] Alteração <code>serviceDataResponse</code> para receber promise(pending).
+
+# 2.0.23
+
+-   [dates] Correção da função <code>scheduleToDate</code> para intervalo com dia da semana.
