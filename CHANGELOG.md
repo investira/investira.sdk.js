@@ -325,3 +325,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.1.1
 
 -   [dates] Novas correções da função <code>scheduleToDate</code> para intervalo com dia da semana.
+
+# 2.1.2
+
+-   [validators] Correção do <code>isNumber</code> para lidar com <code>NaN</code>.
