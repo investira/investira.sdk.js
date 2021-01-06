@@ -1,16 +1,16 @@
 {
     "name": "investira.sdk",
-    "version": "2.1.3",
+    "version": "2.1.4",
     "author": "Investira",
     "description": "Investira SDK",
     "main": "index.js",
     "type": "commonjs",
     "registry": true,
-    "raw": "investira.sdk@2.1.3",
+    "raw": "investira.sdk@2.1.4",
     "escapedName": "investira.sdk",
-    "rawSpec": "2.1.3",
+    "rawSpec": "2.1.4",
     "saveSpec": null,
-    "fetchSpec": "2.1.3",
+    "fetchSpec": "2.1.4",
     "homepage": "https://investira.com.br/",
     "engines": {
         "node": ">=11.11.0 <=12.18.0",
@@ -34,7 +34,7 @@
         "_test": "nodemon --inspect-brk ./_tests/test"
     },
     "dependencies": {
-        "axios": "0.18.1",
+        "axios": "0.21.1",
         "deep-diff": "1.0.2",
         "flatted": "3.0.2",
         "investira.data": "^1.1.12",

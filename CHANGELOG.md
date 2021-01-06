@@ -330,3 +330,7 @@ O contrutor para a criação das mensagem foi alterado.
 
 -   [validators] Correção do <code>isNumber</code> para lidar com <code>NaN</code>.
 -   [validators] Correção do <code>querystringToObject</code> para encodar corretamente uma url pela segunda vez.
+
+# 2.1.4
+
+-   [axios] Atualização de versão
