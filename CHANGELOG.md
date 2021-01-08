@@ -329,8 +329,13 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.1.2
 
 -   [validators] Correção do <code>isNumber</code> para lidar com <code>NaN</code>.
--   [validators] Correção do <code>querystringToObject</code> para encodar corretamente uma url pela segunda vez.
+-   [validators] Correção do <code>querystringToObject</code> para fazer o encode correto de uma url pela segunda vez.
 
 # 2.1.4
 
 -   [axios] Atualização de versão
+
+# 2.1.5
+
+-   [dates] Nova função <code>dstOffset</code> para retorar o offset do horário de verão
+-   [dates] Nova função <code>intlOptions</code> para retorar a configuração local do calendário
