@@ -340,3 +340,7 @@ O contrutor para a criação das mensagem foi alterado.
 -   [dates] Nova função <code>dstOffset</code> para retorar o offset do horário de verão
 -   [dates] Nova função <code>intlOptions</code> para retorar a configuração local do calendário
 -   [arrays] Retirada do Object.assign para pertimir arrays maiores
+
+# 2.1.6
+
+-   [arrays] Correção da função <code>seek</code>
