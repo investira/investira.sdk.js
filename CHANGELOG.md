@@ -344,3 +344,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.1.6
 
 -   [arrays] Correção da função <code>seek</code>
+
+# 2.1.7
+
+-   [dates] Função <code>locale</code> verifica se configuração atual já é iqual ao selecionada.
