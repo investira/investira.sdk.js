@@ -352,3 +352,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.1.8
 
 -   [tasks] Impedir a criação de novo schedule quando já existir um ativo
+
+# 2.1.9
+
+-   [tasks] Correção quando não há schedule
