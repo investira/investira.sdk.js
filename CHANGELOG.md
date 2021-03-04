@@ -348,3 +348,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.1.7
 
 -   [dates] Função <code>locale</code> verifica se configuração atual já é iqual ao selecionada.
+
+# 2.1.8
+
+-   [tasks] Impedir a criação de novo schedule quando já existir um ativo
