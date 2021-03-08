@@ -356,3 +356,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.1.9
 
 -   [tasks] Correção quando não há schedule
+
+# 2.1.10
+
+-   [arrays] Retirada, novamente, do Object.assign para pertimir arrays maiores
