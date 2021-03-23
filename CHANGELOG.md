@@ -360,3 +360,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.1.10
 
 -   [arrays] Retirada, novamente, do Object.assign para pertimir arrays maiores
+
+# 2.1.11
+
+-   [tasks] Retirada do object.freeze para salvar as opções da tarefa
