@@ -1,16 +1,16 @@
 {
     "name": "investira.sdk",
-    "version": "2.1.11-beta.1",
+    "version": "2.1.11-beta.7",
     "author": "Investira",
     "description": "Investira SDK",
     "main": "index.js",
     "type": "commonjs",
     "registry": true,
-    "raw": "investira.sdk@2.1.11-beta.1",
+    "raw": "investira.sdk@2.1.11-beta.7",
     "escapedName": "investira.sdk",
-    "rawSpec": "2.1.11-beta.1",
+    "rawSpec": "2.1.11-beta.7",
     "saveSpec": null,
-    "fetchSpec": "2.1.11-beta.1",
+    "fetchSpec": "2.1.11-beta.7",
     "homepage": "https://investira.com.br/",
     "engines": {
         "node": ">=11.11.0 <=12.18.0",
@@ -74,15 +74,6 @@
             "node_modules/**/node_modules"
         ],
         "delay": "0"
-    },
-    "prettier": {
-        "singleQuote": true,
-        "jsxBracketSameLine": true,
-        "bracketSpacing": true,
-        "trailingComma": "none",
-        "tabWidth": 4,
-        "arrowParens": "avoid",
-        "printWidth": 120
     },
     "license": "GPL-3.0-only",
     "directories": {

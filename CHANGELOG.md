@@ -364,3 +364,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.1.11
 
 -   [tasks] Retirada do object.freeze para salvar as opções da tarefa
+
+# 2.1.12
+
+-   [responses] Função 'routeDataResponse' trata message
