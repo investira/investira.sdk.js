@@ -368,3 +368,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.1.12
 
 -   [responses] Função 'routeDataResponse' trata message
+
+# 2.1.13
+
+-   [tasks] Retirada dos console.log
