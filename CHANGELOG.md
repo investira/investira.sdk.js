@@ -372,3 +372,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.1.13
 
 -   [tasks] Retirada dos console.log
+
+# 2.1.14
+
+-   [tape] Atualização de dependência
