@@ -376,3 +376,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.1.14
 
 -   [tape] Atualização de dependência
+
+# 2.1.15
+
+-   [responses] Inclusão de tratamento de erro
