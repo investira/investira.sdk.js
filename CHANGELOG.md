@@ -234,7 +234,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.0.2
 
 -   [tasks] State.error com valor original do erro
--   [BasicMessages] JSON.stringfy caso mensagem seja um objeto
+-   [BasicMessages] JSON.stringify caso mensagem seja um objeto
 
 # 2.0.3
 
@@ -248,7 +248,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.0.6
 
 -   [tasks] Retry com chamada por setImmediate
--   [strings] Novo método <code>stringfy</code>
+-   [strings] Novo método <code>stringify</code>
 
 # 2.0.7
 
@@ -388,5 +388,14 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.2.1
 
 -   [dates] Correção do dia da função <code>scheduleToDate</code> com type= 'Y'
--   [axios] Atualização
+-   [axios] Atualização 0.2.14
 -   [flatted] Atualização
+
+# 2.2.2
+
+-   [axios] Retorno para 0.2.12 por problema no json
+
+# 2.2.3
+
+-   [httpRequest] Retirada do envio de null dos atributos headers, params, data e cancelToken
+-   [axios] Atualização para 0.2.14
