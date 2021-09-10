@@ -384,3 +384,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.2.0
 
 -   Limitado a versão 14.17.5 do node
+
+# 2.2.1
+
+-   [dates] Correção do dia da função <code>scheduleToDate</code> com type= 'Y'
