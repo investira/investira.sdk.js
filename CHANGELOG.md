@@ -399,3 +399,7 @@ O contrutor para a criação das mensagem foi alterado.
 
 -   [httpRequest] Retirada do envio de null dos atributos headers, params, data e cancelToken
 -   [axios] Atualização para 0.2.14
+
+# 2.2.4
+
+-   [strings] Inclusão de função <code>onlyAlphas</code>.
