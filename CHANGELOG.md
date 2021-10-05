@@ -403,3 +403,4 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.2.4
 
 -   [strings] Inclusão de função <code>onlyAlphas</code>.
+-   [httpRequests] hasConnection rejectUnauthorized = false
