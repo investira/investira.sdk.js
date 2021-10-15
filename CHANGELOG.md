@@ -404,3 +404,15 @@ O contrutor para a criação das mensagem foi alterado.
 
 -   [strings] Inclusão de função <code>onlyAlphas</code>.
 -   [httpRequests] hasConnection rejectUnauthorized = false
+
+# 2.2.5
+
+-   [BasicMessages] <code>BasicMessageSuccess</code> e code>BasicMessageError</code> repassam atributo <code>error</code> se existir
+
+# 2.2.6
+
+-   [BasicMessages] <code>BasicMessageSuccess</code> e code>BasicMessageError</code> com tratamento na descrição da mensagem
+
+# 2.2.7
+
+-   [BasicMessages] <code>BasicMessage</code> verifica se mensagem recebida já é uma basicMessage
