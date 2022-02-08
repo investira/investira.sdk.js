@@ -416,3 +416,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.2.7
 
 -   [BasicMessages] <code>BasicMessage</code> verifica se mensagem recebida já é uma basicMessage
+
+# 2.2.8
+
+-   [axios] Atualização da versão "0.21.4" versão para "0.25.0"
