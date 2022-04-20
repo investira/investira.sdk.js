@@ -420,3 +420,8 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.2.8
 
 -   [axios] Atualização da versão "0.21.4" versão para "0.25.0"
+
+# 2.2.9
+
+-   [moment] Atualização da versão "2.24.0" versão para "2.29.3"
+-   [tape] Atualização da versão "4.15.0" versão para "4.15.1"
