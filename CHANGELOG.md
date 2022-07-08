@@ -425,3 +425,7 @@ O contrutor para a criação das mensagem foi alterado.
 
 -   [moment] Atualização da versão "2.24.0" versão para "2.29.3"
 -   [tape] Atualização da versão "4.15.0" versão para "4.15.1"
+
+# 2.2.10
+
+-   [moment] Atualização da versão "2.24.0" versão para "2.29.4"
