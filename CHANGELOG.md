@@ -429,3 +429,11 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.2.10
 
 -   [moment] Atualização da versão "2.24.0" versão para "2.29.4"
+
+# 2.2.11
+
+-   [investira.data] Atualização
+
+# 2.2.12
+
+-   [investira.data] Atualização
