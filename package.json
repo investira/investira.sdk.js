@@ -1,16 +1,16 @@
 {
     "name": "investira.sdk",
-    "version": "2.2.13",
+    "version": "2.2.14",
     "author": "Investira",
     "description": "Investira SDK",
     "main": "index.js",
     "type": "commonjs",
     "registry": true,
-    "raw": "investira.sdk@2.2.13",
+    "raw": "investira.sdk@2.2.14",
     "escapedName": "investira.sdk",
-    "rawSpec": "2.2.13",
+    "rawSpec": "2.2.14",
     "saveSpec": null,
-    "fetchSpec": "2.2.13",
+    "fetchSpec": "2.2.14",
     "homepage": "https://investira.com.br/",
     "engines": {
         "node": ">=11.11.0 <=14.17.5",
@@ -37,7 +37,7 @@
         "axios": "0.25.0",
         "deep-diff": "1.0.2",
         "flatted": "3.2.2",
-        "investira.data": "^1.2.0",
+        "investira.data": "^1.2.2",
         "moment": "^2.29.4"
     },
     "devDependencies": {

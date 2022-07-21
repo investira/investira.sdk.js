@@ -441,3 +441,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.2.13
 
 -   [investira.data] Controle de vigência do feriado
+
+# 2.2.14
+
+-   [investira.data] Controle de vigência do feriado
