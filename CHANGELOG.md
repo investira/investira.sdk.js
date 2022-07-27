@@ -445,3 +445,8 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.2.14
 
 -   [investira.data] Controle de vigência do feriado
+
+# 2.2.15
+
+-   [numbers] Aumento da precisão do trunc e do round
+-   [formats] Substituicão do trimRight por trimEnd no friendlyNumber
