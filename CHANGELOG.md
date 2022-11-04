@@ -450,3 +450,11 @@ O contrutor para a criação das mensagem foi alterado.
 
 -   [numbers] Aumento da precisão do trunc e do round
 -   [formats] Substituicão do trimRight por trimEnd no friendlyNumber
+
+# 2.3.0
+
+-   [nodejs] 18.12
+
+# 2.3.1
+
+-   [investira.data] Atualização do investira.data
