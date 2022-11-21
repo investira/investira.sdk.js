@@ -458,3 +458,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.3.1
 
 -   [investira.data] Atualização do investira.data
+
+# 2.3.2
+
+-   [dates] Nova função setIntervalAfterRun
