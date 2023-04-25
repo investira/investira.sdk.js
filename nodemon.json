@@ -1,5 +1,5 @@
 {
     "execMap": {
-        "js": "node --inspect=9239"
+        "js": "node --inspect=9233 --trace-warnings "
     }
 }

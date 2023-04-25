@@ -462,3 +462,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.3.2
 
 -   [dates] Nova função setIntervalAfterRun
+
+# 2.3.3
+
+-   [strings] Otimização da função toTitleCase
