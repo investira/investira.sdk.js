@@ -470,3 +470,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.3.4
 
 -   Atualização de dependência
+
+# 2.3.5
+
+-   [numbers] Verifica texto 'null' ou 'undefined' na função toNumber
