@@ -484,3 +484,7 @@ O contrutor para a criação das mensagem foi alterado.
 
 -   [arrays] Inclui função removeDuplicated
 -   [dates] Correção do nome da função para nextMonthAnniversary
+
+# 2.3.8
+
+-   [dates] Correção do cálculo de semanas
