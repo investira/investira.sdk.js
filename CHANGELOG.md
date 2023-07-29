@@ -488,3 +488,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.3.8
 
 -   [dates] Correção do cálculo de semanas
+
+# 2.3.9
+
+-   [dates] Correção da chamada as constantes
