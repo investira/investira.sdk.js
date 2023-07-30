@@ -492,3 +492,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.3.9
 
 -   [dates] Correção da chamada as constantes
+
+# 2.3.10
+
+-   [dates] Correção da função workingDaysInMonth
