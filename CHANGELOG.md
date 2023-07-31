@@ -496,3 +496,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.3.10
 
 -   [dates] Correção da função workingDaysInMonth
+
+# 2.3.11
+
+-   [strings] Nova função joinWords
