@@ -509,3 +509,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.3.13
 
 -   [axios] Atualizado
+
+# 2.3.14
+
+-   [axios] Utilização do axios.default.create()
