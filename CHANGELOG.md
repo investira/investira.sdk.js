@@ -505,3 +505,7 @@ O contrutor para a criação das mensagem foi alterado.
 
 -   [axios] Atualizado
 -   [httpRequests] Nova função upload
+
+# 2.3.13
+
+-   [axios] Atualizado
