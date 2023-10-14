@@ -347,7 +347,7 @@ O contrutor para a criação das mensagem foi alterado.
 
 # 2.1.7
 
--   [dates] Função <code>locale</code> verifica se configuração atual já é iqual ao selecionada.
+-   [dates] Função <code>locale</code> verifica se configuração atual já é igual ao selecionada.
 
 # 2.1.8
 
