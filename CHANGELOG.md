@@ -513,3 +513,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.3.14
 
 -   [axios] Utilização do axios.default.create()
+
+# 2.3.15
+
+-   [dates] addWorkingDays com atributo de para cálcular próxima data ou data anterior quando dias = 0
