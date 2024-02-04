@@ -517,3 +517,11 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.3.15
 
 -   [dates] addWorkingDays com atributo de para cálcular próxima data ou data anterior quando dias = 0
+
+# 2.3.16
+
+-   [objetcs] Alteração da getDiff
+
+# 2.3.17
+
+-   [objetcs] Alteração da getDiff
