@@ -525,3 +525,11 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.3.17
 
 -   [objetcs] Alteração da getDiff
+
+# 2.3.18
+
+-   [objetcs] Correção da mergeObject
+
+# 2.3.19
+
+-   [arrays] Método isEqual
