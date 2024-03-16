@@ -533,3 +533,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.3.19
 
 -   [arrays] Método isEqual
+
+# 2.3.20
+
+-   [tasks] Substituido this por self
