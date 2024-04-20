@@ -541,3 +541,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.3.22
 
 -   [dates] scheduleToDate com seleção do dia da semana, no tipo 'M' e 'Y'.
+
+# 2.3.23
+
+-   [dates] scheduleToDate correção para dia da semana '0' .
