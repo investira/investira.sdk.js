@@ -545,3 +545,11 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.3.23
 
 -   [dates] scheduleToDate correção para dia da semana '0' .
+
+# 2.3.24
+
+-   [validators] Otimização do isObject.
+
+# 2.4.0
+
+-   Atualização do Axios
