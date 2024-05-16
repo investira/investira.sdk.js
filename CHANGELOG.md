@@ -553,3 +553,15 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.4.0
 
 -   Atualização do Axios
+
+# 2.4.1
+
+-   Atualização do investira.data
+
+# 2.4.2
+
+-   Atualização do investira.data
+
+# 2.4.3
+
+-   [validators] isNull testando também string
