@@ -565,3 +565,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.4.3
 
 -   [validators] isNull testando também string
+
+# 2.4.4
+
+-   [dates] Retirada do operador '?'.
