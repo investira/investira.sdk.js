@@ -577,3 +577,15 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.4.6
 
 -   Atualização de dependencias
+
+# 2.4.7
+
+-   Atualização de dependencias
+
+# 2.4.8
+
+-   Atualização de dependencias
+
+# 2.4.9
+
+-   Atualização de dependencias
