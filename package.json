@@ -1,6 +1,6 @@
 {
     "name": "investira.sdk",
-    "version": "2.4.9",
+    "version": "2.4.10",
     "author": "Investira",
     "description": "Investira SDK",
     "main": "index.js",
@@ -8,9 +8,9 @@
     "registry": true,
     "raw": "investira.sdk@2.4.6",
     "escapedName": "investira.sdk",
-    "rawSpec": "2.4.9",
+    "rawSpec": "2.4.10",
     "saveSpec": null,
-    "fetchSpec": "2.4.9",
+    "fetchSpec": "2.4.10",
     "homepage": "https://investira.com.br/",
     "engines": {
         "node": ">=11.11.0 <=18.12",
