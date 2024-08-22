@@ -593,3 +593,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.4.10
 
 -   [spellChecker] Novos separadores
+
+# 2.4.10
+
+-   [httpRequests] Upload com timeout
