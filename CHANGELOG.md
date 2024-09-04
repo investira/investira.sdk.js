@@ -597,3 +597,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.4.10
 
 -   [httpRequests] Upload com timeout
+
+# 2.4.12
+
+-   [dates] addHoliday e removeHoliday
