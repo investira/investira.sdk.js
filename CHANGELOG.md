@@ -601,3 +601,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.4.12
 
 -   [dates] addHoliday e removeHoliday
+
+# 2.4.13
+
+-   [numbers] percentile com exclusive e inclusive
