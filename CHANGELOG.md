@@ -605,3 +605,15 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.4.13
 
 -   [numbers] percentile com exclusive e inclusive
+
+# 2.4.14
+
+-   Atualização de dependencias
+
+# 2.4.15
+
+-   Atualização de dependencias
+
+# 2.4.16
+
+-   Atualização de dependencias
