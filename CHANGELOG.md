@@ -617,3 +617,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.4.16
 
 -   Atualização de dependencias
+
+# 2.4.17
+
+-   [objects] função 'isEqual'
