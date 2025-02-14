@@ -621,3 +621,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.4.17
 
 -   [objects] função 'isEqual'
+
+# 2.4.18
+
+-   [spellChecker] Validação S.A. e Ltda
