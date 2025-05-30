@@ -629,3 +629,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.4.19
 
 -   [objects] Correção do 'isEqual'
+
+# 2.4.20
+
+-   [objects] Novo deleteZeros
