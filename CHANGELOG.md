@@ -633,3 +633,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.4.20
 
 -   [objects] Novo deleteZeros
+
+# 2.4.23
+
+-   [dates] scheduleToDate com atributo nextDay
