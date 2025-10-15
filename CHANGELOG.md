@@ -637,3 +637,7 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.4.23
 
 -   [dates] scheduleToDate com atributo nextDay
+
+# 2.4.28
+
+-   [responses] serviceDataResponse com parametro de referencia a funcao
