@@ -1,6 +1,6 @@
 {
     "name": "investira.sdk",
-    "version": "2.4.28",
+    "version": "2.4.29",
     "author": "Investira",
     "description": "Investira SDK",
     "main": "index.js",
@@ -13,7 +13,7 @@
     "fetchSpec": "2.4.28",
     "homepage": "https://investira.com.br/",
     "engines": {
-        "node": ">=11.11.0 <=18.12",
+        "node": ">=11.11.0 <=18.21.0",
         "npm": ">=6.0.0"
     },
     "keywords": [
