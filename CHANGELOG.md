@@ -641,3 +641,11 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.4.28
 
 -   [responses] serviceDataResponse com parametro de referencia a funcao
+
+# 2.4.29
+
+-   Nodejs < 18.21.0
+
+# 2.4.30
+
+-   [formats] toBytes para converter bytes em formato legível
