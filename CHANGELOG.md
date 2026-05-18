@@ -649,3 +649,28 @@ O contrutor para a criação das mensagem foi alterado.
 # 2.4.30
 
 -   [formats] toBytes para converter bytes em formato legível
+
+# 2.4.31
+
+-   [rags] Removidas dependencias do moment
+
+# 2.4.32
+
+-   [rags] Novas funções de alias para embedding
+
+# 2.4.33
+
+-   [rags] Novas funções de alias para embedding
+
+# 2.4.34
+
+-   [rags] Normalização da versão
+
+# 2.4.35
+
+-   [rags] extractAliases
+
+# 2.4.36
+
+-   [rags] extractAliases otimizado
+
