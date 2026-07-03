@@ -35,7 +35,7 @@
         "_test": "nodemon ./_tests/test"
     },
     "dependencies": {
-        "axios": "^1.17.0",
+        "axios": "^1.18.1",
         "deep-diff": "1.0.2",
         "flatted": "3.4.2",
         "investira.data": "^1.5.3",
