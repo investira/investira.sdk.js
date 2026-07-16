@@ -21,6 +21,7 @@ Estas regras devem ser consideradas ao sugerir ou alterar código no projeto.
 
 - Procure utilizar Promise encadedas, com `return`, `then` e `catch` ao invés de `await`, respeitando a ordem de execução e o acesso às variáveis.
 - `await` deve ser usado em iteradores (for, while) quando realmente necessário. Neste caso verifique se há o tratamento de erros para evitar erro no nodejs.
+- Evite criar arrays de Promises (ex.: `Promise.all`) que disparem consultas simultâneas ao banco de dados, pois isso pode ultrapassar o limite de conexões/consultas simultâneas do banco. Prefira processar em lote/sequencialmente (ex.: `for`/`while` com `await`) ou limitar a concorrência quando o volume de consultas for variável ou potencialmente grande.
 
 ## 4. Padronização de código
 
@@ -30,6 +31,9 @@ Estas regras devem ser consideradas ao sugerir ou alterar código no projeto.
 - Use `gLog` para registrar mensagens semmpre que disponível no projeto que for backend.
 - Procure simplificar o código sempre que possível, evitando fragmentação excessiva.
 - Constantes devem ser declaradas no início do arquivo devem ser sempre em letras maiúsculas.
+- Não crie 'alias' desnecessários para tentar ser mais permissivo. Mantenha a validação original.
+- Procure manter uma única fonte de verdade, não replicando variáveis em múltiplos lugares e nomes diferentes.
+- Só crie cópias dos parametros recebidos nas funções se for necessário modificar o parametro.
 
 ## 5. Formatação
 
@@ -45,7 +49,8 @@ Estas regras devem ser consideradas ao sugerir ou alterar código no projeto.
 
 ## 7. Código legado
 
-- Não crie tratamento para código legado, a não ser que o usuário solicite explicitamente.
+- Antes de criar qualquer código para tratar, compatibilizar ou contornar comportamento legado, pergunte explicitamente ao usuário e registre a decisão.
+- Não crie tratamento para código legado sem essa autorização explícita.
 
 ## 8. API
 
