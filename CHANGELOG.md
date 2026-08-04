@@ -1,3 +1,7 @@
+# 2.4.41
+
+- [objects] Novo metodo <code>getMissingProperties</code>.
+
 # 2.4.40
 
 - [strings] Novo metodo <code>escapeHtml</code> para escapar caracteres especiais em HTML.
