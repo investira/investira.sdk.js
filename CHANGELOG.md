@@ -1,3 +1,15 @@
+# 2.4.44
+
+- [objects] Correção do metodo 'getMissingProperties' para comparar strings sem diferenciar maiúsculas de minúsculas
+
+# 2.4.43
+
+- [dependencies] Atualização de dependencias
+
+# 2.4.42
+
+- [objects] Teste de data no metodo <code>getMissingProperties</code>.
+
 # 2.4.41
 
 - [objects] Novo metodo <code>getMissingProperties</code>.
