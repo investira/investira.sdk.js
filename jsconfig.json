@@ -9,6 +9,7 @@
         "noImplicitReturns": true,
         "noImplicitAny": false,
         "noImplicitThis": false,
+        "strictNullChecks": false,
         "noFallthroughCasesInSwitch": true
     },
     "include": ["./lib/**/*", "_tests", "globals.d.ts"],

@@ -1,3 +1,7 @@
+# 2.4.45
+
+- [objects] Alteração do metodo 'getMissingProperties' para tratar valores nulos.
+
 # 2.4.44
 
 - [objects] Correção do metodo 'getMissingProperties' para comparar strings sem diferenciar maiúsculas de minúsculas
